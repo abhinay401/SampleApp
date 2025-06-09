@@ -32,7 +32,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 # Heroku deployment
-gem "redis", "~> 4.0"
+gem "redis", "~> 5.4"
 gem "bootsnap", ">= 1.4.4", require: false
 
 group :development do
