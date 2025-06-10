@@ -9,7 +9,7 @@ gem "image_processing", "~> 1.2"
 
 # Database gems
 group :development, :test do
-  gem "sqlite3", "~> 1.4"
+  gem "sqlite3", "~> 2.7"
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
 end
 
