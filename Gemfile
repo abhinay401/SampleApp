@@ -23,7 +23,7 @@ gem "bootstrap", "~> 5.2"
 gem "jquery-rails"
 
 # Server
-gem "puma", "~> 6.0"
+gem "puma", "~> 6.6"
 
 # JavaScript and CSS
 gem "importmap-rails"
